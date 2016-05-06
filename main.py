@@ -54,10 +54,8 @@ for i in range(num):
                     print(core_point)
                     for i in range(core_point.index - core_point.left, core_point.index + core_point.right + 1):
                         new_seg.points.append(segment.points[i])
-
-
 #
-    gpx_file1.write(gpx1.to_xml())  # 输出到gpx1中
+gpx_file1.write(gpx1.to_xml())  # 输出到gpx1中
 
 
 
