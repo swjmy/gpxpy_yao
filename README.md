@@ -1,1 +1,5 @@
-ÕâÊÇÖÜÑşĞ¡ÅóÓÑµÄÏîÄ¿£¬ºÍÂ¥ÉÏÊÇÍ¬Ò»¸ö×÷Òµ
+è¿™æ˜¯å‘¨ç‘¶å°æœ‹å‹çš„é¡¹ç›®ï¼Œå’Œæ¥¼ä¸Šæ˜¯åŒä¸€ä¸ªä½œä¸š
+
+
+paperå‚è€ƒï¼š
+https://www.researchgate.net/publication/221001629_A_clustering-based_approach_for_discovering_interesting_places_in_trajectories
